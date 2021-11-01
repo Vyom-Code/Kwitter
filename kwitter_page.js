@@ -5,7 +5,7 @@ var firebaseConfig = {
       databaseURL: "https://kwitter-25afb-default-rtdb.firebaseio.com",
       projectId: "kwitter-25afb",
       storageBucket: "kwitter-25afb.appspot.com",
-      messagingSenderId: "974550842515",
+      messagingSenvderId: "974550842515",
       appId: "1:974550842515:web:c0a240226d9e2fb96a2166"
     };
     
